@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM106_Paulo\DM106_WebAPI\Exerciocio3\Exerciocio3\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM106_Paulo\DM106_WebAPI\Exerciocio3\Exerciocio3\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM106_Paulo\DM106_WebAPI\Exerciocio3\Exerciocio3\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

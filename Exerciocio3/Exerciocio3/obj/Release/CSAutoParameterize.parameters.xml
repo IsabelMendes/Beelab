@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-Exerciocio3-20190608113832.mdf;Initial Catalog=aspnet-Exerciocio3-20190608113832;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Isabel\ Francine\ Mend\\Desktop\\PosGraduacao\\DM106_Paulo\\DM106_WebAPI\\Exerciocio3\\Exerciocio3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Exerciocio3Context-Web.config Connection String" description="Exerciocio3Context Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=Exerciocio3Context-20190608153905; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|Exerciocio3Context-20190608153905.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Isabel\ Francine\ Mend\\Desktop\\PosGraduacao\\DM106_Paulo\\DM106_WebAPI\\Exerciocio3\\Exerciocio3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Exerciocio3Context']/@connectionString" />
+  </parameter>
+  <parameter name="Exerciocio3Context_DatabasePublish-Web.config Connection String" description="Exerciocio3Context_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="Exerciocio3Context_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Isabel\ Francine\ Mend\\Desktop\\PosGraduacao\\DM106_Paulo\\DM106_WebAPI\\Exerciocio3\\Exerciocio3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Exerciocio3Context_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>
